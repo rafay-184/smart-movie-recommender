@@ -47,9 +47,13 @@ SmartMovieRecommender/
 
 ## 📷 Screenshots
 
-> You can add screenshots here after running the app. For example:
-> ![screenshot](screenshots/home_gui.png)
+> ## Home Screen of the App
 
+![Home GUI](screenshots/home_gui.png)
+
+## Movies Recommendation For GLADIATOR Movie
+
+![Movie Recommendation](screenshots/Gladiator_movie_recommendation.png)
 ---
 
 ## ⚙️ Installation
@@ -67,7 +71,7 @@ SmartMovieRecommender/
 
 3. Get your TMDb API Key:  
    👉 [https://www.themoviedb.org/settings/api](https://www.themoviedb.org/settings/api)  
-   Replace `'YOUR_TMDB_API_KEY'` in `tmdb_handler.py`.
+   Replace `'b0e08b032e510d4fd706d637d2c6216c'` in `tmdb_handler.py`.
 
 4. Run the app:
    ```bash
