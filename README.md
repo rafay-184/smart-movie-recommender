@@ -71,7 +71,7 @@ SmartMovieRecommender/
 
 3. Get your TMDb API Key:  
    👉 [https://www.themoviedb.org/settings/api](https://www.themoviedb.org/settings/api)  
-   Replace `'b0e08b032e510d4fd706d637d2c6216c'` in `tmdb_handler.py`.
+   Replace `'Your TMBD API Key'` in `tmdb_handler.py`.
 
 4. Run the app:
    ```bash
@@ -88,18 +88,13 @@ SmartMovieRecommender/
 
 - TMDb API adds visuals: posters, rating, genre, overview, and trailer link
 
----
-
-## 📽️ Demo
-
-> You can record a short Loom/YouTube demo and link it here.
 
 ---
 
 ## 🙋 About Me
 
-👋 I'm Rafay, a BS Artificial Intelligence student passionate about real-world ML apps.  
-Let's connect on [LinkedIn](https://linkedin.com/in/your-link) or check out more at [GitHub](https://github.com/rafay-184).
+👋 I'm Rafay, a 5th semester BS Artificial Intelligence student passionate about real-world ML apps.  
+Let's connect on [LinkedIn](https://www.linkedin.com/in/rafay-abdul-rehman/) or check out more at [GitHub](https://github.com/rafay-184).
 
 ---
 
